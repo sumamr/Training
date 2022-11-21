@@ -1,0 +1,16 @@
+﻿.container{
+    margin:auto;
+    width:90px;
+    background-color:lightblue;
+
+}
+.content{
+    border:2px solid black;
+}
+.footer
+{
+    height:50px;
+    border:2px solid black;
+    position:fixed;
+    text-align:center;
+}

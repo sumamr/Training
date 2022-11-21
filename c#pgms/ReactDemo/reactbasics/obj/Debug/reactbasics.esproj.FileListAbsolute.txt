@@ -1,0 +1,2 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\ReactDemo\ReactBasics\obj\Debug\reactbasics.esproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\ReactDemo\ReactBasics\obj\Debug\reactbasics.esproj.CoreCompileInputs.cache

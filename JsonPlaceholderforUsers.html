@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        #result{
+            border: 5px solid black;
+            margin: auto;
+            background-color:tan;
+            padding: 15px;
+            border-collapse: collapse;
+        
+
+        }
+        footer{
+           position:fixed;bottom:0;width:100%;padding:3px;text-align:center;background-color:darkslategrey;font-size:20px;
+        }
+        header{
+            position:fixed;top:auto;width:100%;padding:3px;text-align:center;background-color:darkslategrey;font-size:20px;
+        }
+        button{
+            background-color:fuchsia;
+            
+            margin:50px;
+        }
+        table,th,td{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        th,td{
+            padding: 5px;
+        }
+
+    </style>
+<body>
+    <header>
+        <p>JSON Place holder for users</p>
+    </header>
+    <center>
+    <h1>Json Place Holder-User</h1>
+    <button type="button" onclick="suma()">Get Users</button>
+    <table id="result">
+    
+    </table>
+</center>
+    <script>
+        function suma()
+        {
+            const xhttp=new XMLHttpRequest();
+            xhttp.onreadystatechange=function()
+            {
+                if(this.readyState==4 && this.status==200)
+                {
+                    data=JSON.parse(this.responseText)
+                    displayUsers(data);
+                }
+            };
+            xhttp.open("GET","https://jsonplaceholder.typicode.com/users");
+            xhttp.send();
+        }
+        function displayUsers(Users)
+        {
+            console.log(Users);
+            data="<tr><th>Name </th><th>Email Id</th><th>City</th><th>Phone</th><th>Web site</th></tr>"
+
+                for(let i=0;i<Users.length;i++)
+                {
+                    User=Users[i];
+                    data=data+`<tr><td>${User.name}</td><td>${User.email}</td><td>${User.address.city}</td><td>${User.phone}</td><td>${User.website}</td></tr>`
+                }
+
+                document.getElementById("result").innerHTML=data;
+        }
+        </script>
+    </table>
+    <footer>
+        <p>@FlatWorld Solutions </p>
+    </footer>
+</body>
+ </html>

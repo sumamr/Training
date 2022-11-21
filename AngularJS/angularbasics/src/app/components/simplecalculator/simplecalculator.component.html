@@ -1,0 +1,10 @@
+<h1>Simple Calculator</h1>
+<div class="table">
+<label>Enter First Number</label>
+<input type="text" [(ngModel)]="num1" value="num1"/> <br>
+<label>Enter an operator</label>
+<input type="text" [(ngModel)]="opr" value="opr"/><br>
+<label>Enter Second Number</label>
+<input type="text" [(ngModel)]="num2" value="num2"/> <br>
+<button (click)="Cal()">Calculate</button>
+<p>Answer is {{calculate}}</p></div>

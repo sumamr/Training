@@ -1,0 +1,11 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\bin\Debug\WorldCupT20.exe.config
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\bin\Debug\WorldCupT20.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\bin\Debug\WorldCupT20.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.csproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.worldcup.resources
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.Properties.Resources.resources
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.csproj.GenerateResource.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\WorldCupT20\obj\Debug\WorldCupT20.pdb

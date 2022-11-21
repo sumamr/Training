@@ -1,0 +1,11 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\bin\Debug\GettingStarted.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\bin\Debug\GettingStarted.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.Properties.Resources.resources
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.GenerateResource.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\GettingStarted\obj\Debug\GettingStarted.SignUp.resources

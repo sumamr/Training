@@ -1,0 +1,17 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\AssemblyTest.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\AssemblyTest.deps.json
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\AssemblyTest.runtimeconfig.json
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\AssemblyTest.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\AssemblyTest.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.AssemblyInfoInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.AssemblyInfo.cs
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.csproj.CopyComplete
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\refint\AssemblyTest.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\AssemblyTest.genruntimeconfig.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\AssemblyDemo\AssemblyTest\obj\Debug\net6.0\ref\AssemblyTest.dll

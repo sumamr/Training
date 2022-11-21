@@ -1,0 +1,15 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\bin\Debug\net6.0\BasicsofCsharp.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\bin\Debug\net6.0\BasicsofCsharp.deps.json
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\bin\Debug\net6.0\BasicsofCsharp.runtimeconfig.json
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\bin\Debug\net6.0\BasicsofCsharp.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\bin\Debug\net6.0\BasicsofCsharp.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.AssemblyInfoInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.AssemblyInfo.cs
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\refint\BasicsofCsharp.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\BasicsofCsharp.genruntimeconfig.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\BasicsofCsharp\BasicsofCsharp\obj\Debug\net6.0\ref\BasicsofCsharp.dll

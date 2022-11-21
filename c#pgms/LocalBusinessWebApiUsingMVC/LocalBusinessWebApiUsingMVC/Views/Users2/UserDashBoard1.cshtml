@@ -1,0 +1,17 @@
+﻿@model LocalBusinessWebApiUsingMVC.models.Users2
+
+@{  
+    ViewBag.Title = "UserDashBoard1";  
+}  
+  
+<fieldset>
+    <legend>
+        Users2
+</legend>
+    @if (ViewData["Email"] != null)
+    {
+        <text>
+            Welcome
+        </text>
+    }
+</fieldset>

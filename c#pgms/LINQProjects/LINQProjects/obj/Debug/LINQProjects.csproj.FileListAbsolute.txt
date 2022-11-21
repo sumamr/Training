@@ -1,0 +1,8 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\obj\Debug\LINQProjects.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\obj\Debug\LINQProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\obj\Debug\LINQProjects.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\bin\Debug\LINQProjects.exe.config
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\bin\Debug\LINQProjects.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\bin\Debug\LINQProjects.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\obj\Debug\LINQProjects.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\LINQProjects\LINQProjects\obj\Debug\LINQProjects.pdb

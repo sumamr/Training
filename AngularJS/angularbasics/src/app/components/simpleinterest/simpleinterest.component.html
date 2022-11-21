@@ -1,0 +1,10 @@
+<h1>Simple Interest</h1>
+<label>Enter Principal Amount</label>
+<input type="text" [(ngModel)]="principal" value="principal"/> <br>
+<label>Enter Rate of Interest</label>
+<input type="text" [(ngModel)]="rate" value="rate"/><br>
+<label>Enter Time</label>
+<input type="text" [(ngModel)]="time" value="time"/> <br>
+<button (click)="Calculate()">Calculate</button>
+<p>Your Simple Interest is {{si}}</p>
+

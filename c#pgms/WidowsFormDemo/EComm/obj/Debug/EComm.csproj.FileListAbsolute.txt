@@ -1,0 +1,11 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\bin\Debug\EComm.exe.config
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\bin\Debug\EComm.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\bin\Debug\EComm.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.csproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.ecomm.resources
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.Properties.Resources.resources
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.csproj.GenerateResource.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\WidowsFormDemo\EComm\obj\Debug\EComm.pdb

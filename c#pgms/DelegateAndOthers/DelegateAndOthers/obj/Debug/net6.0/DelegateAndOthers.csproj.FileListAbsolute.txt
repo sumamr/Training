@@ -1,0 +1,15 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\bin\Debug\net6.0\DelegateAndOthers.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\bin\Debug\net6.0\DelegateAndOthers.deps.json
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\bin\Debug\net6.0\DelegateAndOthers.runtimeconfig.json
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\bin\Debug\net6.0\DelegateAndOthers.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\bin\Debug\net6.0\DelegateAndOthers.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.AssemblyInfoInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.AssemblyInfo.cs
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\refint\DelegateAndOthers.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\DelegateAndOthers.genruntimeconfig.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\DelegateAndOthers\DelegateAndOthers\obj\Debug\net6.0\ref\DelegateAndOthers.dll

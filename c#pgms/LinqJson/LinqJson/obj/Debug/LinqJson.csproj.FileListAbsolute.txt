@@ -1,0 +1,11 @@
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\bin\Debug\LinqJson.exe.config
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\bin\Debug\LinqJson.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\bin\Debug\LinqJson.pdb
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.csproj.AssemblyReference.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.csproj.CoreCompileInputs.cache
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.csproj.CopyComplete
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.exe
+C:\Users\suma.mr\Desktop\training\c#pgms\LinqJson\LinqJson\obj\Debug\LinqJson.pdb
